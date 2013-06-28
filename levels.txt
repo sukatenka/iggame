@@ -51,7 +51,7 @@
 	 "Program":["1","2","3",">,V/",">","1","4","1,2","2","<","<,\\V","3","4","<,/^","3",">","1"],
 	 "Unlock":{"NeedCurrency":{"Value":850}},
 	 "Achievments":[
-		 {"Place":1,"NeedValue":30,"Currency":{"Value":180}},
+		 {"Place":1,"NeedValue":60,"Currency":{"Value":180}},
 		 {"Place":2,"NeedValue":25,"Currency":{"Value":150}},
 		 {"Place":3,"NeedValue":20,"Currency":{"Value":130}},
 		 {"Place":4,"NeedValue":10,"Currency":{"Value":50}}]},
