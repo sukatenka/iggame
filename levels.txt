@@ -4,7 +4,7 @@
 	 "Unlock":{"NeedCurrency":{"Value":60}},
 	 "Achievments":[
 		 {"Place":1,"NeedValue":30,"Currency":{"Value":50}},
-		 {"Place":2,"NeedValue":25,"Currency":{"Value":40}},
+		 {"Place":2,"NeedValue":25,"Currency":{"Value":400}},
 		 {"Place":3,"NeedValue":20,"Currency":{"Value":30}},
 		 {"Place":4,"NeedValue":10,"Currency":{"Value":10}}]},
 	 {"Id":2,
